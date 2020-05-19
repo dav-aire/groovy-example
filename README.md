@@ -1,6 +1,6 @@
 # groovy-example
 Ejecución de ejemplos Groovy para el libro 'Beginning_groovy_grails_and_griffon'
 
-__Pagina actual:__ 21
+__Pagina actual:__ 26
 
-__Tema pendiente:__ Assertions
+__Tema pendiente:__ Dollar Slashy Strings
